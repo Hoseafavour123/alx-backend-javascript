@@ -4,6 +4,6 @@ export default function createIteratoObject(report) {
       for (const employee of department) {
         yield employee;
 	  }
-	}
+    }
   }());
 }
