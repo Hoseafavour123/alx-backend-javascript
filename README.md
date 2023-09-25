@@ -1,2 +1,1 @@
-# alx-backend-javascript
-ALX Backend JavaScript projects
+# ALX Backend Javascript projects
