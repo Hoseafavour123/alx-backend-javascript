@@ -11,7 +11,7 @@ export default function handleProfileSignUp(firstName, lastName, fileName) {
       },
       {
         status: photo.status,
-        value: photo.reason.message,
+        value: `Error: ${photo.reason.message}`,
       },
     ]);
 }
